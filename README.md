@@ -94,7 +94,7 @@ copy /b iPhone-USB&NET-driver-for-Win.jpg + iPhone-USB&NET-driver-for-Win.zip iP
 3. 点击 **「浏览」**，然后找到刚才解压出来的 **`usbaapl.inf`**（若为64位系统则选择 `usbaapl64.inf`），选中它进行安装。
 
 
-### 🎯 **救砖成功！现在你可以通过手机网络，顺畅地去下载或更新你的其他生产力工具了。**###
+### 🎯 **救砖成功！现在你可以通过手机网络，顺畅地去下载或更新你的其他生产力工具了。**
 
 _项目描述文件README.md内容由Gemini生成_
 
