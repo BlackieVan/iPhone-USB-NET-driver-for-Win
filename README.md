@@ -96,6 +96,8 @@ copy /b iPhone-USB&NET-driver-for-Win.jpg + iPhone-USB&NET-driver-for-Win.zip iP
 
 ### 🎯 **救砖成功！现在你可以通过手机网络，顺畅地去下载或更新你的其他生产力工具了。**
 
+---
+
 _项目描述文件README.md内容由Gemini生成_
 
 _Disclaimer: 本项目所涉及的驱动文件版权归 Apple Inc. 所有，本项目仅做技术研究与离线应急装机使用。_
