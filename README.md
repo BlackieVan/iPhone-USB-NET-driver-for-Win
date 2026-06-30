@@ -36,6 +36,7 @@ copy /b iPhone-USB&NET-driver-for-Win.jpg + iPhone-USB&NET-driver-for-Win.zip iP
     
 - **在电脑端**：将其拷贝出来改后缀为 `.zip`，即可用解压软件直接释放出真正的驱动程序。
     
+---
 
 ## 🚀 使用指南（怎么用？）
 
